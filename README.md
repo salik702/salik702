@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Machine+Learning;Transforming+Data+into+Actionable+Insights;Passionate+About+AI+Innovation+%26+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Machine+Learning;Transforming+Data+into+Actionable+Insights;Passionate+About+Large+Language+Models" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -35,8 +35,8 @@ class AIEngineer:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
 
-me = AIEngineer()
-me.say_hi()
+salik = AIEngineer()
+salik.say_hi()
 ```
 
 <br/>
@@ -142,11 +142,13 @@ me.say_hi()
 
 
 
-<h2 align="center">💭 Random Dev Quote</h2>
+<h2 align="center">💭 Funny Dev Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Neural+networks+need+more+GPU,+my+PC+is+burning!;Training+loops+never+end,+coffee+is+my+best+optimizer;Debugging+is+just+another+form+of+meditation+-+Salik+Ahmad" alt="Funny Dev Quote"/>
 </div>
+
+
 
 <br/>
 
