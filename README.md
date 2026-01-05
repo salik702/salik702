@@ -52,7 +52,7 @@ salik.say_hi()
 - 💬 **Ask Me About:** Machine Learning algorithms, model optimization, data preprocessing, feature engineering, or anything AI/ML related
 - ⚡ **Fun Fact:** I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆
 - 📫 **Reach Out:** salikahmad702@gmail.com
-- 🌐 **Portfolio:** [salikahmad.vercel.app](https://salikahmad.vercel.app/)
+- 🌐 **Website:** [salikahmad.vercel.app](https://salikahmad.vercel.app/)
 
 <br clear="right"/>
 
@@ -74,7 +74,7 @@ salik.say_hi()
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://salikahmad.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
