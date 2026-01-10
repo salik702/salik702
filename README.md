@@ -136,7 +136,7 @@ salik.say_hi()
 <h2 align="center">💭 Funny Dev Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Neural+networks+need+more+GPU,+my+PC+is+burning!;Training+loops+never+end,+coffee+is+my+best+optimizer;Debugging+is+just+another+form+of+meditation+-+Salik+Ahmad" alt="Funny Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Neural+networks+need+more+GPU,+my+PC+is+burning!;Training+loops+never+end,+coffee+is+my+best+optimizer;Debugging+is+just+another+form+of+meditation&author=Salik+Ahmad" alt="Funny Dev Quote"/>
 </div>
 
 
