@@ -12,7 +12,24 @@
   <img src="https://img.shields.io/github/stars/salik702?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad1)" />
+  </svg>
+</div>
 
 <br/>
 
@@ -50,7 +67,24 @@ salik.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad2)" />
+  </svg>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -95,7 +129,24 @@ salik.say_hi()
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad3)" />
+  </svg>
+</div>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -119,7 +170,24 @@ salik.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad4)" />
+  </svg>
+</div>
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -154,7 +222,24 @@ salik.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad5)" />
+  </svg>
+</div>
 
 <h2 align="center">🐍 Contributions</h2>
 
@@ -168,7 +253,24 @@ salik.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad6)" />
+  </svg>
+</div>
 
 
 
@@ -182,7 +284,24 @@ salik.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001540,25:00D9FF,50:00D9FF,75:001540,100:001540&height=4" width="100%"/>
+<div align="center">
+  <svg width="100%" height="4">
+    <defs>
+      <linearGradient id="grad7" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="-1;1" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="50%" style="stop-color:#00D9FF;stop-opacity:1">
+          <animate attributeName="offset" values="-0.5;1.5" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" style="stop-color:#001540;stop-opacity:1">
+          <animate attributeName="offset" values="0;2" dur="2s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="4" fill="url(#grad7)" />
+  </svg>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
