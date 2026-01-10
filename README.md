@@ -129,11 +129,9 @@ salik.say_hi()
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salik702&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salik702&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salik702&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salik702&theme=radical&utcOffset=5" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salik702&theme=radical" width="98%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salik702&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salik702&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salik702&theme=radical" height="180" alt="GitHub Streak" />
 </div>
 
 <br/>
