@@ -126,10 +126,10 @@ salik.say_hi()
 
 ---
 
-<h2 align="center">🕹️ Animated Pac-Man Graph</h2>
+<h2 align="center">⚡ Activity Graph</h2>
 
 <div align="center">
-  <img src="pacman-contribution.svg" alt="Pac-Man Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salik702&theme=radical" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
