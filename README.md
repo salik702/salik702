@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salik%20Ahmad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20/%20ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Machine+Learning;Transforming+Data+into+Actionable+Insights;Passionate+About+Large+Language+Models" alt="Typing SVG" />
+  <img src="assets/header.svg" width="100%" alt="Animated Header" />
 </div>
 
 <p align="center">

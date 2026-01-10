@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="400">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29" />
+      <stop offset="50%" stop-color="#302b63" />
+      <stop offset="100%" stop-color="#24243e" />
+    </linearGradient>
+
+    <style>
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-20px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes wave {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-50%); }
+      }
+      @keyframes typing {
+        0% { width: 0; opacity: 1; }
+        50% { width: 400px; opacity: 1; }
+        90% { width: 400px; opacity: 1; }
+        100% { width: 0; opacity: 1; }
+      }
+      @keyframes blink {
+        50% { border-color: transparent; }
+      }
+      .icon { animation: float 6s ease-in-out infinite; }
+      .icon-delay-1 { animation-delay: 1s; }
+      .icon-delay-2 { animation-delay: 2s; }
+      .wave { animation: wave 20s linear infinite; }
+      .text-container {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 30px;
+        fill: #00ffcc;
+        font-weight: bold;
+      }
+      .typing-text {
+        overflow: hidden;
+        white-space: nowrap;
+        border-right: 3px solid #00ffcc;
+        width: 0;
+        display: inline-block;
+        animation: typing 6s steps(30, end) infinite, blink .75s step-end infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="15" />
+
+  <!-- Floating Icons (Abstract) -->
+  <g class="icon" transform="translate(100, 100)" opacity="0.1">
+    <circle r="40" fill="#fff" />
+    <text x="-25" y="10" fill="#000" font-size="30">&lt;/&gt;</text>
+  </g>
+  <g class="icon icon-delay-1" transform="translate(650, 80)" opacity="0.1">
+    <rect width="70" height="70" rx="10" fill="#fff" />
+    <text x="15" y="45" fill="#000" font-size="30">{ }</text>
+  </g>
+  <g class="icon icon-delay-2" transform="translate(400, 150)" opacity="0.1">
+    <polygon points="40,0 80,80 0,80" fill="#fff" />
+  </g>
+
+  <!-- Typing Text -->
+  <svg x="200" y="150" width="450" height="100">
+    <text y="40" class="text-container">
+      I build <tspan class="typing-text">Intelligent Systems</tspan>
+    </text>
+  </svg>
+  
+  <text x="200" y="100" font-family="'Segoe UI', sans-serif" font-size="40" fill="#fff" font-weight="bold">
+    Hi, I'm Salik Ahmad
+  </text>
+
+  <!-- Waves -->
+  <svg x="0" y="250" width="100%" height="150" viewBox="0 0 1200 120" preserveAspectRatio="none">
+    <path class="wave" fill="rgba(255,255,255,0.1)" d="M0,0 C300,40 600,0 900,20 L1200,0 L1200,120 L0,120 Z" />
+    <path class="wave" fill="rgba(255,255,255,0.2)" d="M0,20 C400,60 800,20 1200,40 L1200,120 L0,120 Z" style="animation-duration: 15s;"/>
+    <path class="wave" fill="rgba(255,255,255,0.3)" d="M0,40 C500,80 1000,40 1500,60 L1500,120 L0,120 Z" style="animation-duration: 10s;"/>
+  </svg>
+</svg>
