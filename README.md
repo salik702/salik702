@@ -41,20 +41,24 @@ salik.say_hi()
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>💡 Current Status</h3>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1F242800&text=🔭%20Currently%20Working%20On:%20Advanced%20Machine%20Learning&fontSize=16&fontColor=00D9FF&animation=twinkling&height=30&width=500" /><br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1F242800&text=🧠%20Deep%20Diving%20Into:%20Transformers,%20GANs%20%26%20LLMs&fontSize=16&fontColor=00D9FF&animation=twinkling&height=30&width=500" /><br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1F242800&text=🤝%20Open%20to%20Collaborate%20on%20AI%20Research&fontSize=16&fontColor=00D9FF&animation=twinkling&height=30&width=500" /><br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1F242800&text=🌱%20Learning%20Deep%20Learning%20%26%20Generative%20AI&fontSize=16&fontColor=00D9FF&animation=twinkling&height=30&width=500" /><br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1F242800&text=💬%20Ask%20Me%20About%20ML%20Algorithms%20%26%20MLOps&fontSize=16&fontColor=00D9FF&animation=twinkling&height=30&width=500" /><br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=1F242800&text=⚡%20Fun%20Fact:%20I%20debug%20with%20rubber%20ducks%20%F0%9F%A6%86&fontSize=16&fontColor=00D9FF&animation=twinkling&height=30&width=500" />
+    </td>
+    <td width="40%" valign="top" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350">
+    </td>
+  </tr>
+</table>
 
-### 💡 Current Status
-
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🔭%20Currently%20Working%20On:%20Advanced%20Machine%20Learning&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🧠%20Deep%20Diving%20Into:%20Transformers,%20GANs%20%26%20Diffusion&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550&desc=---&descAlign=50&descAlignY=100" /><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🤝%20Open%20to%20Collaborate%20On:%20AI%20Research%20%26%20Open%20Source&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🌱%20Learning%20Journey:%20Deep%20Learning%20%26%20Generative%20AI&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=💬%20Ask%20Me%20About:%20ML%20Algorithms%20%26%20MLOps&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20Fun%20Fact:%20I%20debug%20with%20rubber%20ducks%20%F0%9F%A6%86&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" />
-</div>
-
-<br clear="right"/>
+<br clear="both"/>
 
 ---
 
