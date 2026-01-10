@@ -14,6 +14,13 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=%E2%96%AE+NEURAL_LINK%3A+STABLE;%E2%96%AE+SYSTEM_STATUS%3A+ONLINE;%E2%96%AE+AI_CORES%3A+OPERATIONAL" alt="Cyberpunk Green" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9C%A7+DEPLOYING_ADVANCED_MODELS...;%E2%9C%A7+OPTIMIZING_NEURAL_WEIGHTS...;%E2%9C%A7+HACKING_THE_FUTURE..." alt="Cyberpunk Blue" />
+</div>
+
+<br/>
+
 ## 🚀 About Me
 
 ```python
