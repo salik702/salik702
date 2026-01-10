@@ -198,7 +198,7 @@ salik.say_hi()
   
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=⭐+Show+some+love+by+starring+repos!;✨+Support+my+open+source+journey!;🚀+Let's+build+amazing+things+together!" alt="Call to action" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Show+some+love+by+starring+repos!;Support+my+open+source+journey!;Let's+build+amazing+things+together!" alt="Call to action" />
 
 <br/>
 <br/>
@@ -210,7 +210,7 @@ salik.say_hi()
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+Salik+Ahmad;AI+Engineer+|+Problem+Solver;Building+the+Future+with+Code" alt="Made with love" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Made+with+love+by+Salik+Ahmad;AI+Engineer+%7C+Problem+Solver;Building+the+Future+with+Code" alt="Made with love" />
 
 <br/>
 
