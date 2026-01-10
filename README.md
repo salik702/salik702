@@ -46,7 +46,12 @@ salik.say_hi()
 ### 💡 Current Status
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=550&lines=%F0%9F%94%AD+Currently+Working+On+ML+Projects;%F0%9F%A7%A0+Deep+Diving+Into+Transformers+%26+GANs;%F0%9F%A4%9D+Open+to+Collaborate+on+AI+Research;%F0%9F%8C%B1+Learning+Generative+AI+%26+LLMs;%F0%9F%92%AC+Ask+Me+About+ML+Algorithms;%F0%9F%A6%86+I+debug+with+rubber+ducks" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🔭%20Currently%20Working%20On:%20Advanced%20Machine%20Learning&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🧠%20Deep%20Diving%20Into:%20Transformers,%20GANs%20%26%20Diffusion&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550&desc=---&descAlign=50&descAlignY=100" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🤝%20Open%20to%20Collaborate%20On:%20AI%20Research%20%26%20Open%20Source&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🌱%20Learning%20Journey:%20Deep%20Learning%20%26%20Generative%20AI&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=💬%20Ask%20Me%20About:%20ML%20Algorithms%20%26%20MLOps&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20Fun%20Fact:%20I%20debug%20with%20rubber%20ducks%20%F0%9F%A6%86&fontSize=18&fontColor=00D9FF&animation=twinkling&height=35&width=550" />
 </div>
 
 <br clear="right"/>
