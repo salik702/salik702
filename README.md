@@ -126,10 +126,14 @@ salik.say_hi()
 
 ---
 
-<h2 align="center">⚡ Activity Graph</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salik702&theme=radical" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salik702/salik702/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salik702/salik702/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salik702/salik702/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
