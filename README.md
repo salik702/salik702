@@ -93,12 +93,9 @@ salik.say_hi()
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
-
-
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&customColorList=002BFF,00D9FF,002BFF,00D9FF&height=30&section=header&animation=twinkling" width="100%"/>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
