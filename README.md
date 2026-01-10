@@ -62,27 +62,27 @@ salik.say_hi()
     <td width="80%" valign="top">
 
 > [!TIP]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=500&color=00FF9D&width=650&lines=%E2%96%AE+CURRENTLY_WORKING:+ML+ARCHITECTURES;%E2%96%AE+STATUS:+OPTIMIZING_NEURAL_NETS" />
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=00FF9D&width=650&lines=%E2%96%AE+CURRENTLY_WORKING:+ML+ARCHITECTURES;%E2%96%AE+STATUS:+OPTIMIZING_NEURAL_NETS" />
 > **🔭 Advanced Machine Learning projects involving predictive analytics and deep learning.**
 
 > [!NOTE]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=500&color=00D9FF&width=650&lines=%E2%9C%A7+DEEP_DIVING:+TRANSFORMERS+%26+LLMs;%E2%9C%A7+RESEARCHING:+DIFFUSION+MODELS" />
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&width=650&lines=%E2%9C%A7+DEEP_DIVING:+TRANSFORMERS+%26+LLMs;%E2%9C%A7+RESEARCHING:+DIFFUSION+MODELS" />
 > **🧠 Deep Diving into Transformer models, GANs, and LLM fine-tuning techniques.**
 
 > [!IMPORTANT]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=500&color=BD5FFF&width=650&lines=%E2%9D%96+COLLABORATING:+OPEN_SOURCE_AI;%E2%9D%96+MISSION:+INNOVATIVE_STARTUP_IDEAS" />
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=BD5FFF&width=650&lines=%E2%9D%96+COLLABORATING:+OPEN_SOURCE_AI;%E2%9D%96+MISSION:+INNOVATIVE_STARTUP_IDEAS" />
 > **🤝 Open to collaborate on Open Source ML projects and research papers.**
 
 > [!WARNING]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=500&color=F9AB00&width=650&lines=%E2%96%B3+LEARNING_JOURNEY:+GENERATIVE_AI;%E2%96%B3+LEVELING_UP:+REINFORCEMENT_LEARNING" />
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=F9AB00&width=650&lines=%E2%96%B3+LEARNING_JOURNEY:+GENERATIVE_AI;%E2%96%B3+LEVELING_UP:+REINFORCEMENT_LEARNING" />
 > **🌱 Exploring cutting-edge topics in Generative AI and Reinforcement Learning.**
 
 > [!CAUTION]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=500&color=FF5252&width=650&lines=%E2%9C%AA+ASK_ME:+ML_ALGORITHMS;%E2%9C%AA+QUERY:+FEATURE_ENGINEERING" />
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=FF5252&width=650&lines=%E2%9C%AA+ASK_ME:+ML_ALGORITHMS;%E2%9C%AA+QUERY:+FEATURE_ENGINEERING" />
 > **💬 ML algorithms, model optimization, and data preprocessing.**
 
 > [!IMPORTANT]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=500&color=00D9FF&width=650&lines=%E2%9A%A1+FUN_FACT:+DEBUGGING_WITH_DUCKS;%E2%9A%A1+PRINCIPLE:+CONSISTENCY_IS_KEY" />
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=2000&color=00D9FF&width=650&lines=%E2%9A%A1+FUN_FACT:+DEBUGGING_WITH_DUCKS;%E2%9A%A1+PRINCIPLE:+CONSISTENCY_IS_KEY" />
 > **⚡ Consistency is the key to mastery! Also, I debug with rubber ducks 🦆**
 
    </td>
