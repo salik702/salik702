@@ -46,9 +46,7 @@ salik.say_hi()
 ### 💡 Current Status
 
 <div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&width=650&height=180&multiline=true&lines=🔭+Currently+Working+On:+Advanced+Machine+Learning;🧠+Deep+Diving+Into:+Transformers,+GANs+%26+Diffusion;🤝+Open+to+Collaborate+On:+AI+Research+%26+Open+Source;🌱+Learning+Journey:+Deep+Learning+%26+Generative+AI;💬+Ask+Me+About:+ML+Algorithms+%26+MLOps;⚡+Fun+Fact:+I+debug+with+rubber+ducks+🦆" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=550&lines=%F0%9F%94%AD+Currently+Working+On+ML+Projects;%F0%9F%A7%A0+Deep+Diving+Into+Transformers+%26+GANs;%F0%9F%A4%9D+Open+to+Collaborate+on+AI+Research;%F0%9F%8C%B1+Learning+Generative+AI+%26+LLMs;%F0%9F%92%AC+Ask+Me+About+ML+Algorithms;%F0%9F%A6%86+I+debug+with+rubber+ducks" alt="Typing SVG" />
 </div>
 
 <br clear="right"/>
