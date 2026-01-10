@@ -45,12 +45,29 @@ salik.say_hi()
 
 ### 💡 What I'm Up To
 
-- 🔭 **Currently Working On:** Advanced Machine Learning projects involving predictive analytics, recommendation systems, and deep learning architectures
-- 🧠 **Deep Diving Into:** Transformer models, GANs, Diffusion Models, and LLM fine-tuning techniques
-- 🤝 **Open to Collaborate On:** Open Source ML projects, AI research papers, and innovative startup ideas
-- 🌱 **Learning Journey:** Exploring cutting-edge topics in Deep Learning, Neural Networks, Generative AI, LLMs, and Reinforcement Learning
-- 💬 **Ask Me About:** Machine Learning algorithms, model optimization, data preprocessing, feature engineering, or anything AI/ML related
-- ⚡ **Fun Fact:** I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆
+<details open>
+<summary><b>🚀 Current Status & Roadmap (Click to Toggle)</b></summary>
+<br/>
+
+> [!TIP]
+> 🔭 **Currently Working On:** Advanced Machine Learning projects involving predictive analytics, recommendation systems, and deep learning architectures
+
+> [!IMPORTANT]
+> 🧠 **Deep Diving Into:** Transformer models, GANs, Diffusion Models, and LLM fine-tuning techniques
+
+> [!NOTE]
+> 🤝 **Open to Collaborate On:** Open Source ML projects, AI research papers, and innovative startup ideas
+
+> [!WARNING]
+> 🌱 **Learning Journey:** Exploring cutting-edge topics in Deep Learning, Neural Networks, Generative AI, LLMs, and Reinforcement Learning
+
+> [!CAUTION]
+> 💬 **Ask Me About:** Machine Learning algorithms, model optimization, data preprocessing, feature engineering, or anything AI/ML related
+
+> [!IMPORTANT]
+> ⚡ **Fun Fact:** I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆
+
+</details>
 
 
 <br clear="right"/>
