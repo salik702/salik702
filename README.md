@@ -129,7 +129,7 @@ salik.say_hi()
 <h2 align="center">🌇 3D Contribution Graph</h2>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph Matrix Rain" width="100%" />
 </div>
 
 <br/>
