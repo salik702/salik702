@@ -32,7 +32,7 @@ class AIEngineer:
         self.role = "AI / ML Engineer"
         self.location = "Pakistan"
         self.education = "Computer Science"
-        self.languages = ["Python", "JavaScript", "SQL"]
+        self.languages = ["Python", "ML", "DL"]
         self.current_focus = [
             "Deep Learning & Neural Networks",
             "Generative AI & Large Language Models",
