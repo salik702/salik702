@@ -43,16 +43,13 @@ salik.say_hi()
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-### 💡 What I'm Up To
+### 💡 Current Status
 
-- 🔭 **Currently Working On:** Advanced Machine Learning projects involving predictive analytics, recommendation systems, and deep learning architectures
-- 🧠 **Deep Diving Into:** Transformer models, GANs, Diffusion Models, and LLM fine-tuning techniques
-- 🤝 **Open to Collaborate On:** Open Source ML projects, AI research papers, and innovative startup ideas
-- 🌱 **Learning Journey:** Exploring cutting-edge topics in Deep Learning, Neural Networks, Generative AI, LLMs, and Reinforcement Learning
-- 💬 **Ask Me About:** Machine Learning algorithms, model optimization, data preprocessing, feature engineering, or anything AI/ML related
-- ⚡ **Fun Fact:** I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆
-- 📫 **Reach Out:** salikahmad702@gmail.com
-- 🌐 **Website:** [salikahmad.vercel.app](https://salikahmad.vercel.app/)
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&width=650&height=180&multiline=true&lines=🔭+Currently+Working+On:+Advanced+Machine+Learning;🧠+Deep+Diving+Into:+Transformers,+GANs+%26+Diffusion;🤝+Open+to+Collaborate+On:+AI+Research+%26+Open+Source;🌱+Learning+Journey:+Deep+Learning+%26+Generative+AI;💬+Ask+Me+About:+ML+Algorithms+%26+MLOps;⚡+Fun+Fact:+I+debug+with+rubber+ducks+🦆" alt="Typing SVG" />
+  </a>
+</div>
 
 <br clear="right"/>
 
