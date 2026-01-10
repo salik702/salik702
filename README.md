@@ -126,12 +126,10 @@ salik.say_hi()
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salik702&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salik702&layout=compact&theme=radical" height="180" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salik702&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/salik702/salik702/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <br/>
