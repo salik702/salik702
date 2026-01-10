@@ -52,8 +52,6 @@ salik.say_hi()
 
 ### 💡 What I'm Up To
 
-<details open>
-<summary><b>⚙️ NEURAL_OPERATIONS_CENTER (Click to Toggle)</b></summary>
 <br/>
 
 <div align="center">
@@ -83,8 +81,6 @@ salik.say_hi()
 > **⚡ I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆**
 
 </div>
-
-</details>
 
 
 <br clear="right"/>
