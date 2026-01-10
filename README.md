@@ -53,26 +53,36 @@ salik.say_hi()
 ### 💡 What I'm Up To
 
 <details open>
-<summary><b>🚀 Current Status & Roadmap (Click to Toggle)</b></summary>
+<summary><b>⚙️ NEURAL_OPERATIONS_CENTER (Click to Toggle)</b></summary>
 <br/>
 
-> [!TIP]
-> 🔭 **Currently Working On:** Advanced Machine Learning projects involving predictive analytics, recommendation systems, and deep learning architectures
+<div align="center">
 
-> [!IMPORTANT]
-> 🧠 **Deep Diving Into:** Transformer models, GANs, Diffusion Models, and LLM fine-tuning techniques
+> [!TIP]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&width=750&lines=%E2%96%AE+CURRENTLY_WORKING:+ML+ARCHITECTURES;%E2%96%AE+STATUS:+OPTIMIZING_NEURAL_NETS" />
+> **🔭 Advanced Machine Learning projects involving predictive analytics, recommendation systems, and deep learning.**
 
 > [!NOTE]
-> 🤝 **Open to Collaborate On:** Open Source ML projects, AI research papers, and innovative startup ideas
-
-> [!WARNING]
-> 🌱 **Learning Journey:** Exploring cutting-edge topics in Deep Learning, Neural Networks, Generative AI, LLMs, and Reinforcement Learning
-
-> [!CAUTION]
-> 💬 **Ask Me About:** Machine Learning algorithms, model optimization, data preprocessing, feature engineering, or anything AI/ML related
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&width=750&lines=%E2%9C%A7+DEEP_DIVING:+TRANSFORMERS+%26+LLMs;%E2%9C%A7+RESEARCHING:+DIFFUSION+MODELS" />
+> **🧠 Deep Diving into Transformer models, GANs, Diffusion Models, and LLM fine-tuning techniques.**
 
 > [!IMPORTANT]
-> ⚡ **Fun Fact:** I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=BD5FFF&width=750&lines=%E2%9D%96+COLLABORATING:+OPEN_SOURCE_AI;%E2%9D%96+MISSION:+INNOVATIVE_STARTUP_IDEAS" />
+> **🤝 Open to collaborate on Open Source ML projects, AI research papers, and innovative startup ideas.**
+
+> [!WARNING]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=F9AB00&width=750&lines=%E2%96%B3+LEARNING_JOURNEY:+GENERATIVE_AI;%E2%96%B3+LEVELING_UP:+REINFORCEMENT_LEARNING" />
+> **🌱 Exploring cutting-edge topics in Deep Learning, Generative AI, LLMs, and Reinforcement Learning.**
+
+> [!CAUTION]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=FF5252&width=750&lines=%E2%9C%AA+ASK_ME:+ML_ALGORITHMS;%E2%9C%AA+QUERY:+FEATURE_ENGINEERING" />
+> **💬 Machine Learning algorithms, model optimization, data preprocessing, and feature engineering.**
+
+> [!IMPORTANT]
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=4000&pause=1000&color=00D9FF&width=750&lines=%E2%9A%A1+FUN_FACT:+DEBUGGING_WITH_DUCKS;%E2%9A%A1+PRINCIPLE:+CONSISTENCY_IS_KEY" />
+> **⚡ I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆**
+
+</div>
 
 </details>
 
