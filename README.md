@@ -215,7 +215,7 @@ salik.say_hi()
 <br/>
 
 <a href="https://github.com/salik702">
-  <img src="https://img.shields.io/badge/👨‍💻_Follow-Salik_Ahmad-00D9FF?style=for-the-badge" alt="Follow" height="40"/>
+  <img src="https://img.shields.io/badge/👨‍💻_Follow-Salik_Ahmad-FF6B6B?style=for-the-badge" alt="Follow" height="40"/>
 </a>
 
 </div>
