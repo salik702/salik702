@@ -196,8 +196,26 @@ salik.say_hi()
 
 <div align="center">
   
-### 🌟 Show some ❤️ by starring some repositories!
-  
-[![Made with ❤️ by Salik Ahmad](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Salik%20Ahmad-red?style=for-the-badge)](https://github.com/salik702)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=⭐+Show+some+love+by+starring+repos!;✨+Support+my+open+source+journey!;🚀+Let's+build+amazing+things+together!" alt="Call to action" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/salik702?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repositories-FF6B6B?style=for-the-badge&logoColor=white" alt="Star Repositories" height="50"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+Salik+Ahmad;AI+Engineer+|+Problem+Solver;Building+the+Future+with+Code" alt="Made with love" />
+
+<br/>
+
+<a href="https://github.com/salik702">
+  <img src="https://img.shields.io/badge/👨‍💻_Follow-Salik_Ahmad-00D9FF?style=for-the-badge" alt="Follow" height="40"/>
+</a>
 
 </div>
