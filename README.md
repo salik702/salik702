@@ -51,8 +51,7 @@ salik.say_hi()
 - 🌱 **Learning Journey:** Exploring cutting-edge topics in Deep Learning, Neural Networks, Generative AI, LLMs, and Reinforcement Learning
 - 💬 **Ask Me About:** Machine Learning algorithms, model optimization, data preprocessing, feature engineering, or anything AI/ML related
 - ⚡ **Fun Fact:** I believe in coding daily - consistency is the key to mastery! Also, I debug with rubber ducks 🦆
-- 📫 **Reach Out:** salikahmad702@gmail.com
-- 🌐 **Website:** [salikahmad.vercel.app](https://salikahmad.vercel.app/)
+
 
 <br clear="right"/>
 
