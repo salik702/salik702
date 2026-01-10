@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/github/stars/salik702?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
+
 <br/>
 
 <div align="center">
@@ -47,6 +49,8 @@ salik.say_hi()
 ```
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -89,10 +93,12 @@ salik.say_hi()
   </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
+
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
 
 <h2 align="center">🌐 Connect With Me</h2>
 
@@ -116,7 +122,7 @@ salik.say_hi()
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -151,7 +157,7 @@ salik.say_hi()
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
 
 <h2 align="center">🐍 Contributions</h2>
 
@@ -165,7 +171,7 @@ salik.say_hi()
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
 
 
 
@@ -179,7 +185,7 @@ salik.say_hi()
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00D9FF,FF00FF,00FF9D,00D9FF&height=2&width=1000" width="100%" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
