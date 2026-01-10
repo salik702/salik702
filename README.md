@@ -6,11 +6,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+with+Machine+Learning;Transforming+Data+into+Actionable+Insights;Passionate+About+Large+Language+Models" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salik702&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/salik702?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/salik702?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salik702&label=Profile%20Views&color=00D9FF&style=flat-square" alt="profile views" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salik702&theme=radical&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salik702&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salik702&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salik702&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
 
 <br/>
 
@@ -41,16 +52,19 @@ salik.say_hi()
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding" width="400" />
 
-<div align="center">
-  <img src="assets/status-card.svg" alt="Status Card" width="100%" />
-</div>
+### 💡 What I'm Up To
 
-<div align="center">
-  � <strong>Reach Out:</strong> <a href="mailto:salikahmad702@gmail.com">salikahmad702@gmail.com</a> &nbsp;|&nbsp; 
-  🌐 <strong>Website:</strong> <a href="https://salikahmad.vercel.app" target="_blank">salikahmad.vercel.app</a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F7F7F7&width=435&lines=🔭+Working+on+Advanced+ML+%26+Predictive+Analytics;🧠+Deep+diving+into+Transformers+%26+LLMs;🤝+Open+for+Open+Source+ML+%26+AI+Research;🌱+Learning+GenAI,+RL+%26+Neural+Networks;⚡+Fun+fact:+I+debug+with+rubber+ducks+🦆" alt="Typing SVG" />
+
+<br/>
+
+
+
+**📫 Reach Out**
+- 📧 [salikahmad702@gmail.com](mailto:salikahmad702@gmail.com)
+- 🌐 [salikahmad.vercel.app](https://salikahmad.vercel.app/)
 
 <br clear="right"/>
 
