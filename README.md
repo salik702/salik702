@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=180&section=header&text=Salik%20Ahmad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20/%20ML%20Engineer%20|%20Gen%20AI%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=180&section=header&text=Salik%20Ahmad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Engineer%20%7C%20Gen%20AI%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -29,14 +29,14 @@
 class AIEngineer:
     def __init__(self):
         self.name = "Salik Ahmad"
-        self.role = "AI / ML Engineer"
+        self.role = "AI / ML Engineer | LLM Engineer"
         self.location = "Pakistan"
         self.education = "Computer Science"
         self.languages = ["Python", "ML", "DL"]
         self.current_focus = [
             "Deep Learning & Neural Networks",
             "Generative AI & Large Language Models",
-            "Computer Vision & NLP",
+            "Agentic AI Systems",
             "MLOps & Model Deployment"
         ]
         self.passion = "Turning complex problems into elegant AI solutions"
@@ -80,12 +80,12 @@ salik.say_hi()
 > **🤝 Open to collaborate on Open Source ML projects and research papers.**
 
 > [!WARNING]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=F9AB00&width=650&lines=%E2%96%B3+LEARNING_JOURNEY:+GENERATIVE_AI;%E2%96%B3+LEVELING_UP:+REINFORCEMENT_LEARNING" />
-> **🌱 Exploring cutting-edge topics in Generative AI and Reinforcement Learning.**
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=F9AB00&width=650&lines=%E2%96%B3+LEARNING_JOURNEY:+GENERATIVE_AI;%E2%96%B3+LEVELING_UP:+AGENTIC_AI" />
+> **🌱 Exploring cutting-edge topics in Generative AI and Agentic AI Systems.**
 
 > [!CAUTION]
-> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=FF5252&width=650&lines=%E2%9C%AA+ASK_ME:+ML_ALGORITHMS;%E2%9C%AA+QUERY:+FEATURE_ENGINEERING" />
-> **💬 ML algorithms, model optimization, and data preprocessing.**
+> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=FF5252&width=650&lines=%E2%9C%AA+ASK_ME:+LLM+ENGINEERING;%E2%9C%AA+QUERY:+AGENTIC+WORKFLOWS" />
+> **💬 LLM engineering, agentic workflows, and model optimization.**
 
 > [!IMPORTANT]
 > <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=2000&color=00D9FF&width=650&lines=%E2%9A%A1+FUN_FACT:+DEBUGGING_WITH_DUCKS;%E2%9A%A1+PRINCIPLE:+CONSISTENCY_IS_KEY" />
@@ -127,13 +127,16 @@ salik.say_hi()
 
 <div align="center">
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 Machine Learning, Gen AI & Agentic AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF4500?style=for-the-badge&logo=robotframework&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 📊 Data Science & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -210,7 +213,7 @@ salik.say_hi()
 <br/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Made+with+love+by+Salik+Ahmad;AI+Engineer+%7C+Problem+Solver;Building+the+Future+with+Code" alt="Made with love" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Made+with+love+by+Salik+Ahmad;AI+Engineer+%7C+LLM+Engineer;Building+the+Future+with+Code" alt="Made with love" />
 
 <br/>
 
